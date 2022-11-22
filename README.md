@@ -1,2 +1,2 @@
 # Remind-Java
-study java standard - **remind**
+study java standard - **remind !**
