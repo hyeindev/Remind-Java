@@ -3,3 +3,7 @@
 
     java = 객체지향
 
+    code 작성 -> A.java -> compile -> A.class(JVM 이 읽을 수 있는 file) -> JVM -> 실행
+
+    int, double 이 자료형의 기본 -> 그외 사용(연산) 후 업캐스팅 혹은 다운 캐스팅 필요
+        + 연산의 기본은 더 큰 자료형이 기준
